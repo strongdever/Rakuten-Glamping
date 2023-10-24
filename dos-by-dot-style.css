@@ -7212,8 +7212,8 @@ screen and (min-width: 769px) {
 
 .top-message .message-box .sign {
   position: absolute;
-  right: 14.4rem;
-  bottom: 4.9rem;
+  right: 50px;
+  bottom: 36px;
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
